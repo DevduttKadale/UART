@@ -2,7 +2,6 @@
 
 This repository provides a clean and modular RTL implementation of the **UART (Universal Asynchronous Receiver Transmitter)** protocol in **SystemVerilog**, along with design documentation for better understanding and verification.
 
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 
 📁 Contents
 
@@ -12,7 +11,6 @@ This repository provides a clean and modular RTL implementation of the **UART (U
   **uart_documentation.pdf** – Design architecture, FSM, waveforms, and timing explanation
   **README.md** – You're reading it!
 
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 
 📌 Features
 
@@ -21,5 +19,3 @@ This repository provides a clean and modular RTL implementation of the **UART (U
 ✅ Clean separation of modules
 ✅ Synthesizable and Simulation-ready
 ✅ Well-documented design approach
-
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------//
